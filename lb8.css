@@ -35,3 +35,23 @@ p::first-line {
 p::after {
     font-variant:small-caps;
 }
+
+.left {
+    float: left;
+    width: 33.33333%;
+}
+
+.right {
+    float: right;
+    width: 33.33333%;
+}
+
+.middle {
+    float: left;
+    width: 33.33333%;
+}
+
+a:hover {
+    background-color: #ddd; 
+    color: black;
+}
